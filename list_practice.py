@@ -1,8 +1,8 @@
 
-row1 = ["⬜️","⬜️","⬜️"]
-row2 = ["⬜️","⬜️","⬜️"]
-row3 = ["⬜️","⬜️","⬜️"]
-map = [row1,row2,row3]
+row1 = ["⬜️", "⬜️", "⬜️"]
+row2 = ["⬜️", "⬜️", "⬜️"]
+row3 = ["⬜️", "⬜️", "⬜️"]
+map = [row1, row2, row3]
 position = input("enter position")
 horizontal = int(position[0])
 vertical = int(position[1])
